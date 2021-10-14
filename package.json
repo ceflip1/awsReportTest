@@ -1,0 +1,20 @@
+{
+  "name": "testqrvey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1006.0",
+     "exceljs": "^4.3.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
+}
